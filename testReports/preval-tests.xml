@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="6" failures="0" errors="0" time="0.719">
+  <testsuite name="Calculator Tests" errors="0" failures="0" skipped="0" timestamp="2022-02-04T11:13:57" time="0.353" tests="6">
+    <testcase classname="Calculator Tests Addition Tests returns 1 + 1 = 2" name="Calculator Tests Addition Tests returns 1 + 1 = 2" time="0.001">
+    </testcase>
+    <testcase classname="Calculator Tests Addition Tests returns 1 + -1 = 0" name="Calculator Tests Addition Tests returns 1 + -1 = 0" time="0">
+    </testcase>
+    <testcase classname="Calculator Tests Subtraction Tests returns 2 - 1 = 1" name="Calculator Tests Subtraction Tests returns 2 - 1 = 1" time="0">
+    </testcase>
+    <testcase classname="Calculator Tests Subtraction Tests returns 1 - -1 = 2" name="Calculator Tests Subtraction Tests returns 1 - -1 = 2" time="0.001">
+    </testcase>
+    <testcase classname="Calculator Tests Multiply Tests returns 2 * 2 = 4" name="Calculator Tests Multiply Tests returns 2 * 2 = 4" time="0">
+    </testcase>
+    <testcase classname="Calculator Tests Multiply Tests returns 0 * 4 = 4" name="Calculator Tests Multiply Tests returns 0 * 4 = 4" time="0">
+    </testcase>
+  </testsuite>
+</testsuites>
